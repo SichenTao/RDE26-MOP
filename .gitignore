@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+build/
+outputs/
+code/rde26-mop/src/rde2026_mop_r05_t0070
+*.o
+*.out
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
